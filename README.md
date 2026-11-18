@@ -64,6 +64,19 @@ Based on the SQL analysis, the following business insights were identified:
 6. **Sales by Gender:** Female customers generated higher revenue (463,110) than male customers (445,120). Average transaction values were almost equal.
 
 7. **Top Customer:** Customer 3 was the highest-spending customer, with total spending of 38,440 across 76 transactions.
+   ## Screenshots
+
+### Category Analysis
+![Category Analysis](Screenshots/01_category_analysis.png)
+
+### Monthly Revenue
+![Monthly Revenue](Screenshots/02_monthly_revenue.png)
+
+### Sales by Gender
+![Sales by Gender](Screenshots/03_gender_analysis.png)
+
+### Top Customers
+![Top Customers](Screenshots/04_top_customers.png)
 
 ## Conclusion
 
